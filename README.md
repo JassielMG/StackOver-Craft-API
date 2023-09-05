@@ -5,16 +5,16 @@ This project is a data processing API that interacts with the Stack Overflow API
 
 Key Technologies Used:
 
-FastAPI: A modern, fast (high-performance) web framework for building APIs.
-Pandas: A powerful data manipulation and analysis library.
-Requests: A Python library for making HTTP requests to external APIs.
-Docker: Containerization technology for easier deployment and management.
-The main features of this project include:
+- FastAPI: A modern, fast (high-performance) web framework for building APIs.
+- Pandas: A powerful data manipulation and analysis library.
+- Requests: A Python library for making HTTP requests to external APIs.
+- Docker: Containerization technology for easier deployment and management.
 
-Fetching data from the Stack Overflow API.
-Preprocessing and cleaning the retrieved data.
-Calculating insights such as answer statistics, less viewed questions, and more.
-Providing these insights through API endpoints for easy access.
+The main features of this project include:
+- Fetching data from the Stack Overflow API.
+- Preprocessing and cleaning the retrieved data.
+- Calculating insights such as answer statistics, less viewed questions, and more.
+- Providing these insights through API endpoints for easy access.
 
 ### Installation
 To run this project using Docker, follow these steps:
